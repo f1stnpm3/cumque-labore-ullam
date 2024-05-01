@@ -1,18 +1,57 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@f1stnpm3/cumque-labore-ullam",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "f1st",
   "license": "MIT",
+  "dependencies": {
+    "@crabas0npm/possimus-fugit-nulla": "^1.0.0",
+    "@f1stnpm3/dicta-recusandae-vel": "^1.0.0",
+    "@f1stnpm3/laboriosam-magni-consectetur": "^1.0.0",
+    "@f1stnpm3/numquam-nemo-dicta": "^1.0.0",
+    "@f1stnpm3/optio-nobis-dignissimos": "^1.0.0",
+    "remind-works-8th": "^1.0.2"
+  },
+  "keywords": [
+    "url",
+    "copy",
+    "Function.prototype.name",
+    "utilities",
+    "keys",
+    "trimRight",
+    "command",
+    "directory",
+    "coercible",
+    "ender",
+    "getopt",
+    "ES2021",
+    "setter",
+    "typesafe",
+    "simpledb",
+    "typed",
+    "toobject",
+    "BigUint64Array",
+    "wordwrap",
+    "sharedarraybuffer",
+    "linewrap",
+    "names",
+    "flux",
+    "route53",
+    "node",
+    "Object.keys",
+    "performant",
+    "curl",
+    "bundler",
+    "util"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/f1stnpm3/cumque-labore-ullam.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/f1stnpm3/cumque-labore-ullam/#readme",
+  "bugs": {
+    "url": "https://github.com/f1stnpm3/cumque-labore-ullam/issues"
   }
 }
